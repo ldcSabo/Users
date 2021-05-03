@@ -3,10 +3,15 @@ Fiyatlar
 - Haftalık : 60 TL
 - Aylık : 180 TL
 
+Satın aldıktan sonra
+
+- https://canary.discord.com/channels/@me/708666025150906469/838905779465093140
+- Yukardaki linkten ID.bat ı indirip açınız ve bana özelden ID'nizi gönderiniz ve size lisans kodunu atmamı bekleyiniz.
+
 Kurulum
 
 - Dosyaları indirdikten sonra winrardan masaüstüne çıkartın.
--
+- Java versionu 281 veya 291 olması lazım java versionunuzu CMD ye "java -version" yazarak kontrol edebilirsiniz.
 - Uygulamayı açın ve register bölümüne tıklayın, burada kullanıcı ismi ve şifre voidin kendi datasına kaydoluyor craftrise ile alakasızdır. License bölümü yerinede siz verilen lisansı yazınız ve registere basınız.
 - Başlat butonu geldiğinde kaydınız tamamlanmış demektir ve buraya craftrise hesabınızı ve şifrenizi giriniz RAM bölümüne sırasıyla : 
 
@@ -17,4 +22,4 @@ Kurulum
 ve katları...
 
 - GIF Size gifli cape özelliğini kullanabilmeniz için eklenmiştir orayı isterseniz boş bırakabilirsiniz aşşağı kısımda gif kurulumu bölümünde ayrıntılı bir şekilde anlatacağım.
-- Ardından
+- Ardından başlata basıp girişinizi sağlayabilirsiniz.
