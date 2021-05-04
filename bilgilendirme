@@ -3,9 +3,15 @@ Fiyatlar
 - Haftalık : 60 TL
 - Aylık : 180 TL
 
+Ön gereksinimler
+
+- PC isminizde boşluk olmamasına dikkat ediniz. CMD'yi açın ve users dan sonra gelen şeyde boşluk var mı dikkat edin örnek : https://cdn.discordapp.com/attachments/838889042514935849/839038514959089704/Ekran_Alnts.PNG
+- Windows 8.1 desteklemiyor.
+- Javanız yüklü olsun https://java.com/
+
 Satın aldıktan sonra
 
-- https://canary.discord.com/channels/@me/708666025150906469/838905779465093140
+- https://cdn.discordapp.com/attachments/838889042514935849/839037545614016532/ID.bat
 - Yukardaki linkten ID.bat ı indirip açınız ve bana özelden ID'nizi gönderiniz ve size lisans kodunu atmamı bekleyiniz.
 
 Kurulum
@@ -32,4 +38,18 @@ GIF Yükleme
 
 Bilinen Hatalar
 
--
+- 2 tane java bulundu veya javanız doğrulanamadı hatası 1 den fazla javanız bulunduğunda veya javanızın sürümü uyuşmadığından verir bunu tüm javaları silip https://java.com/ dan yenisini indirerek çözebilirsiniz.
+- Özel durum hatası alanlar çalıştırdan "C:\Windows\System32\drivers\etc" bu yola gitsin ve hosts dosyasına sağ tıklayıp özelliklere tıklaın ve güvenlik bölümüne gelip tam denetim veriniz.
+- JNI Exception gibi hataları alanlar RAM'a 1024 verip denesin.
+
+Oyun içi gerekli bilgiler
+
+- Kozmetiklere erişmek için ".cosmetic list" yazınız. Örnek kozmetik : ".cosmetic wing dragon"<
+- Minebot (otomatik maden kasma) oyuna girin Y kordinatınız 30 olana kadar kazın ve "/minebot mine (maden ismi)" örnek olarak "/minebot mine diamond_ore" elmas kasmak için.
+- SAĞ SHİFT ile özellikleri görebilirsiniz. SOL TIKLAYARAK modülleri açabilirsiniz SAĞ TIKLAYARAK modülleri ayarlayabilirsiniz. ORTA TUŞ ile tuş ataması yapabilirsiniz.
+
+Spotify Özelliği
+
+- Öncellikle spotifyınızın premium olması lazım. Doğruladıktan sonra oyun içinde NOKTA tuşuna basınız sizi bir linke atacak.
+- Gelen linke ilk defa girdiyseniz kabul et e basınız ilk defa girmiyorsanız github linkine aktaracaktır bu github linkini tamamını kopyalayınız.
+- Kopyaladıktan sonra oyun chatine "/verify" yazınız ve tekrardan NOKTA tuşuna basıp müziğinizi dinleyebilirsiniz.
