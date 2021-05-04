@@ -46,7 +46,7 @@ Bilinen Hatalar
 
 - 2 tane java bulundu veya javanız doğrulanamadı hatası 1 den fazla javanız bulunduğunda veya javanızın sürümü uyuşmadığından verir bunu tüm javaları silip https://java.com/ dan yenisini indirerek çözebilirsiniz.
 - Özel durum hatası alanlar çalıştırdan "C:\Windows\System32\drivers\etc" bu yola gitsin ve hosts dosyasına sağ tıklayıp özelliklere tıklaın ve güvenlik bölümüne gelip tam denetim veriniz.
-- JNI Exception gibi hataları alanlar RAM'a 1024 verip denesin.
+- Java Virtual Machine Launcher başlığında hata alanlar RAM'a 1024 verip denesin.
 
 Oyun içi gerekli bilgiler
 
